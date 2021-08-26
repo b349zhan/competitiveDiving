@@ -1,4 +1,4 @@
-# cs486_project
+# group_project
 For running the matlab code:
 
 - The pose_data in the data folder contains a mini set of poses from 10 videos, these are the features that is loaded in load_features.m
