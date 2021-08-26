@@ -7,3 +7,6 @@ For running the matlab code:
 - Change the dirlist in get_video_list.m to the directory of pose data
 - Change fname_feat to a path of pose data file
 - Change to use score and difficulty level file (.mat file in data folder) and change the name of variable loaded ('difficulty_level' and 'overall_scores')
+
+
+Please check out the awesome youtube video for our group project https://www.youtube.com/watch?v=McYJ-wiXYBM 
